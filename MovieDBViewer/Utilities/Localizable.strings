@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MovieDBViewer
+
+  Created by Ian McDonald on 02/11/19.
+  Copyright © 2019 Ian McDonald. All rights reserved.
+*/
+
+"Movies" = "Movies";
+"TV" = "TV";
+"Now Showing" = "Now Showing";
+"Upcomming" = "Upcomming";
+"Top Rated" = "Top Rated";
+"On Air" = "On Air";
+"Description" = "Description";
+"Release Date" = "Release\nDate";
+"Original Language" = "Original\nLanguage";
+"Genre" = "Genre";
+"Rating" = "Rating";
+"Back" = "Back";
+"⭐️" = "⭐️";
+"Error calling GET in fetch movie" = "Error calling GET in fetch movie";
+"Error calling GET in fetch configuration" = "Error calling GET in fetch configuration";
+"Error calling GET in fecth genre" = "Error calling GET in fecth genre";
+"Error calling GET in fetch languages" = "Error calling GET in fetch languages";
+"Error did not receive data from API" = "Error did not receive data from API";
+"Error converting data to JSON" = "Error converting data to JSON";
+"Error parsing JSON data" = "Error parsing JSON data";
+"Unable to create the URL Request object" = "Unable to create the URL Request object";
